@@ -1,11 +1,11 @@
 ### Hi, I'm Keeret 👋
 
-- cs @ uwaterloo
-- bba @ wilfrid laurier
-- deep interest in full stack development
-- proficient in python, c, html/css
+- 💻 cs @ uwaterloo
+- 💼 bba @ wilfrid laurier
+- ⚙️ deep interest in full stack development
+- 👨‍💻 proficient in python, c, html/css
 
-links: [portfolio](https://keeretmahi.com) • [portfolio](linkedin.com/in/keeret-mahi)
+links: [portfolio](https://keeretmahi.com) • [linkedin](linkedin.com/in/keeret-mahi)
 
 <!--
 **Keeret-Mahi/Keeret-Mahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
